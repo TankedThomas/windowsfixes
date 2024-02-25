@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+; DISABLE GROUP-BY IN DOWNLOADS FOLDER
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FolderTypes\{885a186e-a440-4ada-812b-db871b942259}\TopViews\{00000000-0000-0000-0000-000000000000}]
+"GroupAscending"=-
+"GroupBy"=-
+"PrimaryProperty"=-
+"SortByList"="prop:System.ItemNameDisplay"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderTypes\{885a186e-a440-4ada-812b-db871b942259}\TopViews\{00000000-0000-0000-0000-000000000000}]
+"GroupAscending"=-
+"GroupBy"=-
+"PrimaryProperty"=-
+"SortByList"="prop:System.ItemNameDisplay"

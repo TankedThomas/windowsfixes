@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\Drive\shell\Windows.CleanUp]
+[HKEY_CLASSES_ROOT\Drive\shell\Windows.CleanUp]
+"HasLUAShield"=""
+
+[HKEY_CLASSES_ROOT\Drive\shell\Windows.CleanUp]
+"CommandStateSync"=""
+"ExplorerCommandHandler"="{9cca66bb-9c78-4e59-a76f-a5e9990b8aa0}"
+"Icon"="%SystemRoot%\\System32\\cleanmgr.exe,-104"
+"ImpliedSelectionModel"=dword:00000001
+

@@ -1,0 +1,1 @@
+winget uninstall --id 9MSSGKG348SP
