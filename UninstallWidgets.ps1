@@ -1,1 +1,1 @@
-winget uninstall --id 9MSSGKG348SP
+winget uninstall 9MSSGKG348SP
