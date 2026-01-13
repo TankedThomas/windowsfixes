@@ -18,3 +18,4 @@ Get-AppxPackage *DevHome* | Remove-AppxPackage # Dev Home
 Get-AppxPackage *GetHelp* | Remove-AppxPackage # Get Help
 Get-AppxPackage *XboxGamingOverlay* | Remove-AppxPackage # Game Bar
 Get-AppxPackage *YourPhone* | Remove-AppxPackage # Phone Link
+Get-AppxPackage aimgr* | Remove-AppPackage # Microsoft 365 AI Manager
